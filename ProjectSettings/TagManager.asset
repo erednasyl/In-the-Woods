@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillPlane
+  - CheckPoint
+  - PotHeal
+  - ShadowCoin
+  - SceneChanger
+  - SelfKnockback
+  - Advance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Destroyable
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2182643831
+    locked: 0
+  - name: PlayableGround
+    uniqueID: 4134216999
+    locked: 0
+  - name: Enemies
+    uniqueID: 2679756007
+    locked: 0
+  - name: Player
+    uniqueID: 1177375311
+    locked: 0
+  - name: VFX
+    uniqueID: 655381469
+    locked: 0
+  - name: Foreground
+    uniqueID: 987305933
+    locked: 0
